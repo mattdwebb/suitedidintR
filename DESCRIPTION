@@ -1,0 +1,12 @@
+Package: suitedidintR
+Title: Native Target-Standardized Intersection Difference-in-Differences
+Version: 0.1.0
+Authors@R: person("Matthew D.", "Webb", email = "matt.webb@carleton.ca", role = c("aut", "cre"))
+Description: A native reference implementation of target-standardized
+    intersection difference-in-differences with explicit cluster assignments,
+    complete delete-cluster jackknife and coefficient randomization inference. Supported scope is
+    deliberately restricted and documented; this is development software.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.0)
+Imports: stats

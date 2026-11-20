@@ -1,0 +1,5 @@
+.test-library/
+*.Rcheck/
+*.tar.gz
+*.log
+.Rhistory

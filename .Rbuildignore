@@ -1,0 +1,7 @@
+^\.git$
+^\.github$
+^\.test-library$
+^.*\.Rcheck$
+^.*\.tar\.gz$
+^tests/oracle_generate\.py$
+^CITATION\.cff$
